@@ -1,0 +1,278 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-color:#FFFFFF;
+	height:2000px;
+	width:100%;
+}
+
+#storbox {
+	background-color:#FFFFFF;
+	height:2000px;
+	width:100%;
+	position:absolute;
+}
+
+nav {
+	Background-color:#FFFFFF;
+	font-family: 'Josefin Slab', serif;
+	height:5%;
+	width:100%;
+	font-size:40px;
+	color:#000000;
+}
+
+ul {
+	list-style:none;
+	background-color:#FFFFFF;
+	text-align:center;
+	margin:0;
+	padding-top:55px;
+	padding-bottom:0;
+	padding-right:20px;
+	padding-left:0;
+	color:#000000;
+}
+
+li {
+	line-height:10px;
+	height:100%;
+	width:20%;
+	float:left;
+	color:#000000;
+}
+
+#rynkeby {
+	display:inline-flex;
+	float:left;
+	margin-top:-60px;
+	
+}
+
+a { 
+	color:#00813f;
+	text-decoration:none;
+}
+
+a:link {
+	color:#00813f;
+	text-decoration:none;
+}
+
+a:visited {
+	color:#00813f;
+	text-decoration:none;
+}
+
+a:active {
+	color:#000000;
+	text-decoration:none;
+}
+
+a:hover {
+	color:#00813f;
+	font-weight:900;
+	text-decoration:none;
+}
+
+#sponsor-bild {
+	margin-left:230px;
+}
+
+#cyklister {
+	padding-left:200px;
+}
+
+#barnmedcancer {
+	padding-left:20px;
+}
+
+#lag-bild {
+	margin-left:250px;
+	padding-bottom:300px;
+}
+
+article {
+	background-color:#fad000;
+	height:85%;
+	width:1360px;
+	font-size:24px;
+	font-family:'Josefin Sans', sans-serif;
+	padding-left:20px;	
+	padding-right:40px;
+	margin:0 auto;
+}
+
+h1 {
+	font-family: 'Josefin Sans', sans-serif;
+	font-size:60px;
+	color:#d80812;
+	text-align:left;
+}
+
+h2 {
+	font-family: 'Josefin Sans', sans-serif;
+	font-size:40px;
+	color:#d80812;
+}
+
+#läs-mer {
+	text-decoration:underline;
+	font-size:25px;
+	font-family:'Josefin Sans', sans-serif;
+}
+
+#Paul {
+	display:inline-block;
+	margin-top:0;
+	float:lefT;
+}
+
+#Martina {
+	display:inline-block;
+	margin-top:0px;
+	margin-left:500px;
+}
+
+#Carl {
+	display:inline-block;
+	margin-top:300px;
+	margin-left:-260px;
+	float:left;
+}
+
+#Mikkel {
+	display:inline-block;
+	margin-top:65px;
+	margin-left:500px;
+}
+
+h4 {
+	color:#d80812;
+	font-family:'Josefin Sans', sans-serif;
+	font-size:26px;
+	font-weight:900;
+}
+
+#bli-platinasponsor {
+	text-decoration:underline;
+	font-size:40px;
+	font-family:'Josefin Sans', sans-serif;
+}
+
+#bli-guldsponsor {
+	text-decoration:underline;
+	font-size:40px;
+	font-family:'Josefin Sans', sans-serif;
+}
+
+#bli-silversponsor {
+	text-decoration:underline;
+	font-size:40px;
+	font-family:'Josefin Sans', sans-serif;
+}
+
+#bli-bronssponsor {
+	text-decoration:underline;
+	font-size:40px;
+	font-family:'Josefin Sans', sans-serif;
+}
+
+#bli-teamsponsor {
+	text-decoration:underline;
+	font-size:40px;
+	font-family:'Josefin Sans', sans-serif;
+}
+
+#_sponsor {
+	font-family: 'Josefin Sans', sans-serif;
+	font-size:30px;
+	color:#d80812;
+	
+}
+
+#swisha {
+	font-family:'Josefin Slab', serif;
+	font-size:50px;
+}
+
+#som-sponsor {
+	font-family: 'Josefin Sans', sans-serif;
+	font-size:24px;
+	color:#000000;
+	font-weight:900;
+}
+
+#barnsupporter {
+	margin-left:325px;
+}
+
+#swish {
+	font-family:'Josefin Slab', serif;
+}
+
+#totalt {
+	font-weight:900;
+	font-family:'Josefin Slab', serif;
+}
+
+#barncancer {
+	font-family:'Josefin Slab', serif;
+	font-size:50px;
+}
+
+#läsmerbarncancer {
+	font-family:'Josefin Slab', serif;
+	font-size:40px;
+}
+
+#kontakt {
+	margin-left:350px;
+}
+
+footer {
+	background-color:#FFFFFF;
+	height:10%;
+	width:100%;
+	font-family:'Josefin Sans', sans-serif;
+	font-size:20px;
+}
+
+#facebook {
+	padding-left:140px;
+	margin-bottom:0;
+	padding-bottom:0;
+}
+
+#barncancerfonden {
+	display:inline-flex;
+	float:left;
+	margin-left:600px;
+	margin-top:-260px;
+}
+
+#bidrag {
+	font-family:'Josefin Sans', sans-serif;
+	display:inline-flex;
+	float:right;
+	margin-right:140px;
+	margin-top:-220px;
+	color:#000000;
+	font-size:45px;
+}
+
+h6 {
+	font-family:'Josefin Sans', sans-serif;
+	font-size:30px;
+	padding-top:0;
+	margin-top:0;
+	padding-left:100px;
+	color:#000000;
+}
+
+h5 {
+	color:#d80812;
+	font-size:28px;
+	font-family: 'Josefin Sans', sans-serif;
+}
